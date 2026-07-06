@@ -1,0 +1,72 @@
+{
+  "id": 2031735099,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-07-05",
+    "date:inception_upper": "2026-07-05",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-07-05",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DL",
+    "flysfo:date": "2026-07-05",
+    "flysfo:estimated_timestamp": 1783309680,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "DL8888",
+    "flysfo:gate": "",
+    "flysfo:journey": "SLC-SFO",
+    "flysfo:scheduled_timestamp": 1783306920,
+    "flysfo:timestamp": 1783309680,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-111.980566,40.782170",
+    "geom:latitude": 39.20008,
+    "geom:longitude": -117.1757545,
+    "iata:airline": "DL",
+    "icao:airline": "DAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102527363,
+    "sfomuseum:flight_id": "20260705-A-DAL-8888",
+    "sfomuseum:flight_number": [
+      "DAL8888",
+      "DL8888"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1783353931,
+    "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2031735099,
+        "flight_id": 2031735099
+      }
+    ],
+    "wof:id": 2031735099,
+    "wof:involves": [
+      102527513,
+      102527363,
+      1159284261,
+      -1
+    ],
+    "wof:lastmodified": 1783353931,
+    "wof:name": "DL8888 (SLC-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -111.980566,
+    40.78217
+  ],
+  "geometry": {"coordinates":[[-111.980566,40.78217],[-122.370943,37.61799]],"type":"MultiPoint"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 2031733619,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-07-05",
+    "date:inception_upper": "2026-07-05",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-07-05",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AC",
+    "flysfo:date": "2026-07-05",
+    "flysfo:estimated_timestamp": 1783308660,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "AC7032",
+    "flysfo:gate": "",
+    "flysfo:journey": "BFI-SFO",
+    "flysfo:scheduled_timestamp": 1783309080,
+    "flysfo:timestamp": 1783309080,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-122.301589,47.536582",
+    "geom:latitude": 42.577286,
+    "geom:longitude": -122.336266,
+    "iata:airline": "AC",
+    "icao:airline": "ACA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283597,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102527671,
+    "sfomuseum:flight_id": "20260705-A-ACA-7032",
+    "sfomuseum:flight_number": [
+      "ACA7032",
+      "AC7032"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1783353755,
+    "wof:geomhash": "968bb026a0fa1cef9842447a45b980d7",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2031733619,
+        "flight_id": 2031733619
+      }
+    ],
+    "wof:id": 2031733619,
+    "wof:involves": [
+      102527513,
+      102527671,
+      1159283597,
+      -1
+    ],
+    "wof:lastmodified": 1783353755,
+    "wof:name": "AC7032 (BFI-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -122.301589,
+    47.536582
+  ],
+  "geometry": {"coordinates":[[-122.301589,47.536582],[-122.370943,37.61799]],"type":"MultiPoint"}
+}

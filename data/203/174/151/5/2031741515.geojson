@@ -1,0 +1,72 @@
+{
+  "id": 2031741515,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-07-05",
+    "date:inception_upper": "2026-07-05",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-07-05",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-07-05",
+    "flysfo:estimated_timestamp": 1783318140,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA8136",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-YYZ",
+    "flysfo:scheduled_timestamp": 1783318140,
+    "flysfo:timestamp": 1783318140,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-79.628342,43.676352",
+    "geom:latitude": 40.647171,
+    "geom:longitude": -100.9996425,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102555091,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260705-D-UAL-8136",
+    "sfomuseum:flight_number": [
+      "UAL8136",
+      "UA8136"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1783354665,
+    "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2031741515,
+        "flight_id": 2031741515
+      }
+    ],
+    "wof:id": 2031741515,
+    "wof:involves": [
+      102555091,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1783354665,
+    "wof:name": "UA8136 (SFO-YYZ)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -79.628342,
+    43.676352
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-79.628342,43.676352]],"type":"MultiPoint"}
+}
