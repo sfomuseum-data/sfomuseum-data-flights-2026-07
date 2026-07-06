@@ -2,10 +2,12 @@
   "id": 2031741275,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1970-01-01",
+    "date:cessation_upper": "1970-01-01",
     "date:inception_lower": "2026-07-05",
     "date:inception_upper": "2026-07-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-05",
+    "edtf:cessation": "1970-01-01T00:00:00Z",
+    "edtf:inception": "2026-07-05T15:39:58-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -100.580671,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.620791,
     "lbl:longitude": -122.390014,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528779,
     "sfomuseum:base_flight_id": "20260705-D-ANZ-9568",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N47360",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -88,13 +96,14 @@
     ],
     "wof:id": 2031741275,
     "wof:involves": [
-      102528779,
       102527513,
       1159285413,
       1947304473,
-      1159283697
+      1159283697,
+      1528104575,
+      102528779
     ],
-    "wof:lastmodified": 1783354637,
+    "wof:lastmodified": 1783354744,
     "wof:name": "UA477 (SFO-RDU)",
     "wof:parent_id": 1947304473,
     "wof:placetype": "custom",
