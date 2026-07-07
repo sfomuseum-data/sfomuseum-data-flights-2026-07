@@ -1,0 +1,72 @@
+{
+  "id": 2031751729,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-07-06",
+    "date:inception_upper": "2026-07-06",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-07-06",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "UA",
+    "flysfo:date": "2026-07-06",
+    "flysfo:estimated_timestamp": 1783399980,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA8163",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-OMA",
+    "flysfo:scheduled_timestamp": 1783392720,
+    "flysfo:timestamp": 1783399980,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-95.897601,41.301438",
+    "geom:latitude": 39.459714,
+    "geom:longitude": -109.134272,
+    "iata:airline": "UA",
+    "icao:airline": "UAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102524739,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260706-D-UAL-8163",
+    "sfomuseum:flight_number": [
+      "UAL8163",
+      "UA8163"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1783441064,
+    "wof:geomhash": "b2b4de685cac2a2e83e7d43e9bbb14d9",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2031751729,
+        "flight_id": 2031751729
+      }
+    ],
+    "wof:id": 2031751729,
+    "wof:involves": [
+      102524739,
+      102527513,
+      1159285413,
+      -1
+    ],
+    "wof:lastmodified": 1783441064,
+    "wof:name": "UA8163 (SFO-OMA)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -95.897601,
+    41.301438
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-95.897601,41.301438]],"type":"MultiPoint"}
+}
