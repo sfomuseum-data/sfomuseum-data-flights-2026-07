@@ -1,0 +1,72 @@
+{
+  "id": 2031787289,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-07-10",
+    "date:inception_upper": "2026-07-10",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-07-10",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "JX",
+    "flysfo:date": "2026-07-10",
+    "flysfo:estimated_timestamp": 1783718700,
+    "flysfo:event": "A",
+    "flysfo:flight_number": "JX3012",
+    "flysfo:gate": "",
+    "flysfo:journey": "TPE-SFO",
+    "flysfo:scheduled_timestamp": 1783718700,
+    "flysfo:timestamp": 1783718700,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,25.078566,121.233152,37.617990",
+    "geom:latitude": 31.348278,
+    "geom:longitude": -0.5688954999999964,
+    "iata:airline": "JX",
+    "icao:airline": "SJX",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1880516289,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102551487,
+    "sfomuseum:flight_id": "20260710-A-SJX-3012",
+    "sfomuseum:flight_number": [
+      "SJX3012",
+      "JX3012"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1783786046,
+    "wof:geomhash": "07bfd75b358269393c92373b424876ce",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2031787289,
+        "flight_id": 2031787289
+      }
+    ],
+    "wof:id": 2031787289,
+    "wof:involves": [
+      102527513,
+      102551487,
+      1880516289,
+      -1
+    ],
+    "wof:lastmodified": 1783786046,
+    "wof:name": "JX3012 (TPE-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    25.078566,
+    121.233152,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[121.233152,25.078566],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
