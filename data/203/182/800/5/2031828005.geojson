@@ -2,10 +2,12 @@
   "id": 2031828005,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-07-14",
-    "date:inception_upper": "2026-07-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-14",
+    "date:cessation_lower": "2026-07-14",
+    "date:cessation_upper": "2026-07-14",
+    "date:inception_lower": "1970-01-01",
+    "date:inception_upper": "1970-01-01",
+    "edtf:cessation": "2026-07-14T06:32:49-07:00",
+    "edtf:inception": "1970-01-01T00:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-07-14",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.918425,
     "geom:longitude": -102.86132599999999,
     "iata:airline": "DL",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102525635,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N874DN",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -83,12 +91,13 @@
     ],
     "wof:id": 2031828005,
     "wof:involves": [
+      1947304669,
+      1377564285,
       102527513,
       102525635,
-      1159284261,
-      1947304669
+      1159284261
     ],
-    "wof:lastmodified": 1784131537,
+    "wof:lastmodified": 1784132345,
     "wof:name": "DL469 (DTW-SFO)",
     "wof:parent_id": 1947304669,
     "wof:placetype": "custom",
