@@ -1,0 +1,72 @@
+{
+  "id": 2031857853,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-07-16",
+    "date:inception_upper": "2026-07-16",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-07-16",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DL",
+    "flysfo:date": "2026-07-16",
+    "flysfo:estimated_timestamp": 1784246400,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "DL8888",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-BFI",
+    "flysfo:scheduled_timestamp": 1784246400,
+    "flysfo:timestamp": 1784246400,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-122.301589,47.536582",
+    "geom:latitude": 42.577286,
+    "geom:longitude": -122.336266,
+    "iata:airline": "DL",
+    "icao:airline": "DAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102527671,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260716-D-DAL-8888",
+    "sfomuseum:flight_number": [
+      "DAL8888",
+      "DL8888"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1784304879,
+    "wof:geomhash": "02eb21027b428b31b3a49fca7e3fb60f",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2031857853,
+        "flight_id": 2031857853
+      }
+    ],
+    "wof:id": 2031857853,
+    "wof:involves": [
+      102527671,
+      102527513,
+      1159284261,
+      -1
+    ],
+    "wof:lastmodified": 1784304879,
+    "wof:name": "DL8888 (SFO-BFI)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -122.301589,
+    47.536582
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-122.301589,47.536582]],"type":"MultiPoint"}
+}
