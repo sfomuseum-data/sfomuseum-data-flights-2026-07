@@ -2,10 +2,12 @@
   "id": 2031877159,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-18",
+    "date:cessation_upper": "2026-07-18",
     "date:inception_lower": "2026-07-18",
     "date:inception_upper": "2026-07-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-18",
+    "edtf:cessation": "2026-07-18T03:25:56Z",
+    "edtf:inception": "2026-07-18T02:28:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152150063"
+    },
     "wof:country": "US",
     "wof:created": 1784477322,
     "wof:geomhash": "01009f732d03a7803d3f7fd23cf321f4",
@@ -94,7 +99,7 @@
       1947304481,
       1159283597
     ],
-    "wof:lastmodified": 1784477322,
+    "wof:lastmodified": 1784477971,
     "wof:name": "UA2657 (SNA-SFO)",
     "wof:parent_id": 1947304481,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2031876961,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-18",
+    "date:cessation_upper": "2026-07-18",
     "date:inception_lower": "2026-07-18",
     "date:inception_upper": "2026-07-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-18",
+    "edtf:cessation": "2026-07-18T04:14:38Z",
+    "edtf:inception": "2026-07-18T02:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152150039"
+    },
     "wof:country": "US",
     "wof:created": 1784477300,
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
@@ -94,7 +99,7 @@
       1947304517,
       1159283597
     ],
-    "wof:lastmodified": 1784477300,
+    "wof:lastmodified": 1784477969,
     "wof:name": "UA1603 (LAS-SFO)",
     "wof:parent_id": 1947304517,
     "wof:placetype": "custom",

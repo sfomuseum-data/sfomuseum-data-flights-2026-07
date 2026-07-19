@@ -2,10 +2,12 @@
   "id": 2031881477,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-18",
+    "date:cessation_upper": "2026-07-18",
     "date:inception_lower": "2026-07-18",
     "date:inception_upper": "2026-07-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-18",
+    "edtf:cessation": "2026-07-18T08:01:38Z",
+    "edtf:inception": "2026-07-18T06:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152159805"
+    },
     "wof:country": "US",
     "wof:created": 1784477802,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -94,7 +99,7 @@
       1947304515,
       1159283597
     ],
-    "wof:lastmodified": 1784477802,
+    "wof:lastmodified": 1784477929,
     "wof:name": "UA2839 (SFO-LAS)",
     "wof:parent_id": 1947304515,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2031879747,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-18",
+    "date:cessation_upper": "2026-07-18",
     "date:inception_lower": "2026-07-18",
     "date:inception_upper": "2026-07-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-18",
+    "edtf:cessation": "2026-07-18T01:56:06Z",
+    "edtf:inception": "2026-07-18T00:39:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152145291"
+    },
     "wof:country": "US",
     "wof:created": 1784477611,
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
@@ -94,7 +99,7 @@
       1947304679,
       1159285483
     ],
-    "wof:lastmodified": 1784477611,
+    "wof:lastmodified": 1784477963,
     "wof:name": "DL1088 (SFO-SLC)",
     "wof:parent_id": 1947304679,
     "wof:placetype": "custom",

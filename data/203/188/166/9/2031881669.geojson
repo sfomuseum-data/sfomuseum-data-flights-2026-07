@@ -2,10 +2,12 @@
   "id": 2031881669,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-18",
+    "date:cessation_upper": "2026-07-18",
     "date:inception_lower": "2026-07-18",
     "date:inception_upper": "2026-07-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-18",
+    "edtf:cessation": "2026-07-18T03:30:19Z",
+    "edtf:inception": "2026-07-18T02:27:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152153020"
+    },
     "wof:country": "US",
     "wof:created": 1784477823,
     "wof:geomhash": "b700d5ae3794da4176af6b85f6cd6669",
@@ -94,7 +99,7 @@
       1947304525,
       1159283597
     ],
-    "wof:lastmodified": 1784477823,
+    "wof:lastmodified": 1784477931,
     "wof:name": "UA589 (SFO-SNA)",
     "wof:parent_id": 1947304525,
     "wof:placetype": "custom",

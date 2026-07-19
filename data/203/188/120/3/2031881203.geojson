@@ -2,10 +2,12 @@
   "id": 2031881203,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-18",
+    "date:cessation_upper": "2026-07-18",
     "date:inception_lower": "2026-07-18",
     "date:inception_upper": "2026-07-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-18",
+    "edtf:cessation": "2026-07-18T05:47:57Z",
+    "edtf:inception": "2026-07-18T05:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -121.5070865,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.618149,
     "lbl:longitude": -122.381669,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527351,
     "sfomuseum:base_flight_id": "20260718-D-DLH-9388",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N445UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152156149"
+    },
     "wof:country": "US",
     "wof:created": 1784477771,
     "wof:geomhash": "6ee4dc6f06435306541ac2ffbe1ad823",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2031881203,
     "wof:involves": [
+      1159292085,
       102527351,
       102527513,
       1159285413,
       1947304613,
       1159286015
     ],
-    "wof:lastmodified": 1784477771,
+    "wof:lastmodified": 1784477926,
     "wof:name": "UA1334 (SFO-SBP)",
     "wof:parent_id": 1947304613,
     "wof:placetype": "custom",

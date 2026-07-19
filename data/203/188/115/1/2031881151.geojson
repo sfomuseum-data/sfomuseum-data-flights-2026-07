@@ -2,10 +2,12 @@
   "id": 2031881151,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-18",
+    "date:cessation_upper": "2026-07-18",
     "date:inception_lower": "2026-07-18",
     "date:inception_upper": "2026-07-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-18",
+    "edtf:cessation": "2026-07-18T10:52:28Z",
+    "edtf:inception": "2026-07-18T06:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152157685"
+    },
     "wof:country": "US",
     "wof:created": 1784477766,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
@@ -94,7 +99,7 @@
       1947304455,
       1159283697
     ],
-    "wof:lastmodified": 1784477766,
+    "wof:lastmodified": 1784477925,
     "wof:name": "UA1141 (SFO-EWR)",
     "wof:parent_id": 1947304455,
     "wof:placetype": "custom",

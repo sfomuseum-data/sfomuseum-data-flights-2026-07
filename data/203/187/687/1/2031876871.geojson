@@ -2,10 +2,12 @@
   "id": 2031876871,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-18",
+    "date:cessation_upper": "2026-07-18",
     "date:inception_lower": "2026-07-18",
     "date:inception_upper": "2026-07-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-18",
+    "edtf:cessation": "2026-07-18T05:02:17Z",
+    "edtf:inception": "2026-07-18T04:10:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152155441"
+    },
     "wof:country": "US",
     "wof:created": 1784477290,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -94,7 +99,7 @@
       1947304529,
       1159285749
     ],
-    "wof:lastmodified": 1784477290,
+    "wof:lastmodified": 1784477969,
     "wof:name": "UA1195 (LAX-SFO)",
     "wof:parent_id": 1947304529,
     "wof:placetype": "custom",
