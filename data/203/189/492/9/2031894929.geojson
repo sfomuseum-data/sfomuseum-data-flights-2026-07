@@ -2,10 +2,12 @@
   "id": 2031894929,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-19",
+    "date:cessation_upper": "2026-07-19",
     "date:inception_lower": "2026-07-19",
     "date:inception_upper": "2026-07-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-19",
+    "edtf:cessation": "2026-07-19T04:39:16Z",
+    "edtf:inception": "2026-07-19T01:36:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-07-19",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.780291500000004,
     "geom:longitude": -120.38022649999999,
     "iata:airline": "UA",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N87527",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "152237343"
+    },
     "wof:country": "US",
     "wof:created": 1784564318,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -46,12 +57,12 @@
     ],
     "wof:id": 2031894929,
     "wof:involves": [
+      1159289871,
       102533795,
       102527513,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1784564318,
+    "wof:lastmodified": 1784564457,
     "wof:name": "UA8156 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

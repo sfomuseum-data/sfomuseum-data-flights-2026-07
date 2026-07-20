@@ -2,10 +2,12 @@
   "id": 2031894625,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-19",
+    "date:cessation_upper": "2026-07-19",
     "date:inception_lower": "2026-07-19",
     "date:inception_upper": "2026-07-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-19",
+    "edtf:cessation": "2026-07-19T10:26:24Z",
+    "edtf:inception": "2026-07-19T05:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152246825"
+    },
     "wof:country": "US",
     "wof:created": 1784564284,
     "wof:geomhash": "1c4ce661f6692034a082b31062a17f5e",
@@ -94,7 +99,7 @@
       1947304473,
       1159284341
     ],
-    "wof:lastmodified": 1784564284,
+    "wof:lastmodified": 1784564455,
     "wof:name": "UA2837 (SFO-IAD)",
     "wof:parent_id": 1947304473,
     "wof:placetype": "custom",
