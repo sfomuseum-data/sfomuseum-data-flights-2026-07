@@ -2,10 +2,12 @@
   "id": 2031903609,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-07-20",
-    "date:inception_upper": "2026-07-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-20",
+    "date:cessation_lower": "2026-07-20",
+    "date:cessation_upper": "2026-07-20",
+    "date:inception_lower": "2026-07-21",
+    "date:inception_upper": "2026-07-21",
+    "edtf:cessation": "2026-07-20T13:05:21-07:00",
+    "edtf:inception": "2026-07-21T01:16:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -119.2977885,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618149,
     "lbl:longitude": -122.381669,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260720-A-ACA-4964",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N1902U",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152318514"
+    },
     "wof:country": "US",
     "wof:created": 1784650175,
     "wof:geomhash": "e506e1cc6e68aaf992ce3bac53e4e4fa",
@@ -92,9 +104,10 @@
       102527733,
       1159285413,
       1947304613,
-      1159283597
+      1159283597,
+      1159292085
     ],
-    "wof:lastmodified": 1784650175,
+    "wof:lastmodified": 1784650792,
     "wof:name": "UA649 (BOI-SFO)",
     "wof:parent_id": 1947304613,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2031908197,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-21",
+    "date:cessation_upper": "2026-07-21",
     "date:inception_lower": "2026-07-20",
     "date:inception_upper": "2026-07-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-20",
+    "edtf:cessation": "2026-07-21T05:30:47Z",
+    "edtf:inception": "2026-07-20T19:58:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": 9.012156999999995,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "icao:base_airline": "ANA",
     "lbl:latitude": 37.620534,
     "lbl:longitude": -122.388506,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102541685,
     "sfomuseum:base_flight_id": "20260720-D-ANA-7013",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N2136U",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152376145"
+    },
     "wof:country": "US",
     "wof:created": 1784650691,
     "wof:geomhash": "b0708fbc9882ec26729f19c3bf135279",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2031908197,
     "wof:involves": [
+      1159289993,
       102541685,
       102527513,
       1159285413,
       1947304459,
       1159283875
     ],
-    "wof:lastmodified": 1784650691,
+    "wof:lastmodified": 1784650832,
     "wof:name": "UA837 (SFO-NRT)",
     "wof:parent_id": 1947304459,
     "wof:placetype": "custom",

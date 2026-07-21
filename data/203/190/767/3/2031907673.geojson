@@ -2,10 +2,12 @@
   "id": 2031907673,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-07-20",
-    "date:inception_upper": "2026-07-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-20",
+    "date:cessation_lower": "2026-07-21",
+    "date:cessation_upper": "2026-07-21",
+    "date:inception_lower": "2026-07-21",
+    "date:inception_upper": "2026-07-21",
+    "edtf:cessation": "2026-07-21T06:27:28Z",
+    "edtf:inception": "2026-07-21T05:24:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-07-20",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.9389005,
     "geom:longitude": -121.76404,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617921,
     "lbl:longitude": -122.38181,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530507,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N475UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152326314"
+    },
     "wof:country": "US",
     "wof:created": 1784650633,
     "wof:geomhash": "398b6cf59cf3bdf390f5834c7a336099",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2031907673,
     "wof:involves": [
+      1947304623,
+      1159292085,
       102530507,
       102527513,
-      1159285413,
-      1947304623
+      1159285413
     ],
-    "wof:lastmodified": 1784650633,
+    "wof:lastmodified": 1784650840,
     "wof:name": "UA1809 (SFO-RDM)",
     "wof:parent_id": 1947304623,
     "wof:placetype": "custom",

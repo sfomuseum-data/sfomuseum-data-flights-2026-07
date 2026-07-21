@@ -2,10 +2,12 @@
   "id": 2031906113,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-20",
+    "date:cessation_upper": "2026-07-20",
     "date:inception_lower": "2026-07-20",
     "date:inception_upper": "2026-07-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-20",
+    "edtf:cessation": "2026-07-20T22:59:29Z",
+    "edtf:inception": "2026-07-20T20:48:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-07-20",
@@ -34,7 +36,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "152381750"
+    },
     "wof:country": "US",
     "wof:created": 1784650457,
     "wof:geomhash": "5815a5b1ad78885fe3ae36c1daab138f",
@@ -51,7 +59,7 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1784650457,
+    "wof:lastmodified": 1784650799,
     "wof:name": "DL399 (SFO-ACV)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
