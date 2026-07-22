@@ -2,10 +2,12 @@
   "id": 2031914237,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-21",
+    "date:cessation_upper": "2026-07-21",
     "date:inception_lower": "2026-07-21",
     "date:inception_upper": "2026-07-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-21",
+    "edtf:cessation": "2026-07-21T17:28:51Z",
+    "edtf:inception": "2026-07-21T15:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152430998"
+    },
     "wof:country": "US",
     "wof:created": 1784736280,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -94,7 +102,7 @@
       1947304313,
       1159283849
     ],
-    "wof:lastmodified": 1784736280,
+    "wof:lastmodified": 1784737165,
     "wof:name": "AS725 (SEA-SFO)",
     "wof:parent_id": 1947304313,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2031916441,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-21",
+    "date:cessation_upper": "2026-07-21",
     "date:inception_lower": "2026-07-21",
     "date:inception_upper": "2026-07-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-21",
+    "edtf:cessation": "2026-07-21T11:31:42-07:00",
+    "edtf:inception": "2026-07-21T21:44:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -105.1326535,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.619451,
     "lbl:longitude": -122.384404,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20260721-A-ACA-3763",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N37521",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152471895"
+    },
     "wof:country": "US",
     "wof:created": 1784736536,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -92,9 +104,10 @@
       102533631,
       1159285413,
       1947304519,
-      1159283597
+      1159283597,
+      1528104577
     ],
-    "wof:lastmodified": 1784736536,
+    "wof:lastmodified": 1784737185,
     "wof:name": "UA2251 (ORD-SFO)",
     "wof:parent_id": 1947304519,
     "wof:placetype": "custom",

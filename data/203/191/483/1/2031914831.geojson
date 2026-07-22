@@ -2,10 +2,12 @@
   "id": 2031914831,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-21",
+    "date:cessation_upper": "2026-07-21",
     "date:inception_lower": "2026-07-21",
     "date:inception_upper": "2026-07-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-21",
+    "edtf:cessation": "2026-07-21T17:22:21Z",
+    "edtf:inception": "2026-07-21T13:02:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152424664"
+    },
     "wof:country": "US",
     "wof:created": 1784736349,
     "wof:geomhash": "a23858bb4e93419105e139a22bd92749",
@@ -94,7 +102,7 @@
       1947304675,
       1159284625
     ],
-    "wof:lastmodified": 1784736349,
+    "wof:lastmodified": 1784737180,
     "wof:name": "DL361 (DTW-SFO)",
     "wof:parent_id": 1947304675,
     "wof:placetype": "custom",

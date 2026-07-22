@@ -2,10 +2,12 @@
   "id": 2031919139,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-21",
+    "date:cessation_upper": "2026-07-21",
     "date:inception_lower": "2026-07-21",
     "date:inception_upper": "2026-07-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-21",
+    "edtf:cessation": "2026-07-21T23:02:35Z",
+    "edtf:inception": "2026-07-21T21:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152470221"
+    },
     "wof:country": "US",
     "wof:created": 1784736845,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -94,7 +102,7 @@
       1947304673,
       1159284613
     ],
-    "wof:lastmodified": 1784736845,
+    "wof:lastmodified": 1784737177,
     "wof:name": "DL1412 (SFO-SEA)",
     "wof:parent_id": 1947304673,
     "wof:placetype": "custom",

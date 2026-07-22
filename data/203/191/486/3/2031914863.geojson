@@ -2,10 +2,12 @@
   "id": 2031914863,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-21",
+    "date:cessation_upper": "2026-07-21",
     "date:inception_lower": "2026-07-21",
     "date:inception_upper": "2026-07-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-21",
+    "edtf:cessation": "2026-07-21T06:59:18Z",
+    "edtf:inception": "2026-07-21T01:34:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -40,6 +42,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "152393713"
+    },
     "wof:country": "US",
     "wof:created": 1784736353,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -57,7 +62,7 @@
       -1,
       1159284613
     ],
-    "wof:lastmodified": 1784736353,
+    "wof:lastmodified": 1784737180,
     "wof:name": "DL667 (JFK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

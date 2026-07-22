@@ -2,10 +2,12 @@
   "id": 2031916609,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-21",
+    "date:cessation_upper": "2026-07-21",
     "date:inception_lower": "2026-07-21",
     "date:inception_upper": "2026-07-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-21",
+    "edtf:cessation": "2026-07-21T13:43:30Z",
+    "edtf:inception": "2026-07-21T13:30:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-07-21",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152502508"
+    },
     "wof:country": "US",
     "wof:created": 1784736556,
     "wof:geomhash": "5aa704d308ccde2b747329ebb6ffcf42",
@@ -88,7 +96,7 @@
       1159285413,
       1947304455
     ],
-    "wof:lastmodified": 1784736556,
+    "wof:lastmodified": 1784737171,
     "wof:name": "UA3937 (SJC-SFO)",
     "wof:parent_id": 1947304455,
     "wof:placetype": "custom",

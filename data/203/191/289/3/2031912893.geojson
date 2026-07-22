@@ -2,10 +2,12 @@
   "id": 2031912893,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-21",
+    "date:cessation_upper": "2026-07-21",
     "date:inception_lower": "2026-07-21",
     "date:inception_upper": "2026-07-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-21",
+    "edtf:cessation": "2026-07-21T17:51:45Z",
+    "edtf:inception": "2026-07-21T12:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152422072"
+    },
     "wof:country": "US",
     "wof:created": 1784736101,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -94,7 +102,7 @@
       1947304291,
       1159285081
     ],
-    "wof:lastmodified": 1784736101,
+    "wof:lastmodified": 1784737151,
     "wof:name": "AA179 (JFK-SFO)",
     "wof:parent_id": 1947304291,
     "wof:placetype": "custom",
