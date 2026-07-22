@@ -1,0 +1,72 @@
+{
+  "id": 2031919255,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-07-21",
+    "date:inception_upper": "2026-07-21",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-07-21",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DL",
+    "flysfo:date": "2026-07-21",
+    "flysfo:estimated_timestamp": 1784655600,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "DL8961",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-IAD",
+    "flysfo:scheduled_timestamp": 1784653200,
+    "flysfo:timestamp": 1784655600,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-77.453702,38.949246",
+    "geom:latitude": 38.283618000000004,
+    "geom:longitude": -99.9123225,
+    "iata:airline": "DL",
+    "icao:airline": "DAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102528817,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260721-D-DAL-8961",
+    "sfomuseum:flight_number": [
+      "DAL8961",
+      "DL8961"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1784736859,
+    "wof:geomhash": "1c4ce661f6692034a082b31062a17f5e",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2031919255,
+        "flight_id": 2031919255
+      }
+    ],
+    "wof:id": 2031919255,
+    "wof:involves": [
+      102528817,
+      102527513,
+      1159284261,
+      -1
+    ],
+    "wof:lastmodified": 1784736859,
+    "wof:name": "DL8961 (SFO-IAD)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -77.453702,
+    38.949246
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-77.453702,38.949246]],"type":"MultiPoint"}
+}
