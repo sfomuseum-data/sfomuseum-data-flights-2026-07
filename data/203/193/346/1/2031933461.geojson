@@ -2,10 +2,12 @@
   "id": 2031933461,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-23",
+    "date:cessation_upper": "2026-07-23",
     "date:inception_lower": "2026-07-22",
     "date:inception_upper": "2026-07-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-22",
+    "edtf:cessation": "2026-07-23T00:01:46Z",
+    "edtf:inception": "2026-07-22T23:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152567759"
+    },
     "wof:country": "US",
     "wof:created": 1784823512,
     "wof:geomhash": "739cf7062aa24bbf1662c0bae366af8d",
@@ -94,7 +102,7 @@
       1947304495,
       1159283697
     ],
-    "wof:lastmodified": 1784823512,
+    "wof:lastmodified": 1784823698,
     "wof:name": "UA1205 (SFO-RDU)",
     "wof:parent_id": 1947304495,
     "wof:placetype": "custom",

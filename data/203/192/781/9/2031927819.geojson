@@ -2,10 +2,12 @@
   "id": 2031927819,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-22",
+    "date:cessation_upper": "2026-07-22",
     "date:inception_lower": "2026-07-22",
     "date:inception_upper": "2026-07-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-22",
+    "edtf:cessation": "2026-07-22T12:07:41-07:00",
+    "edtf:inception": "2026-07-22T22:36:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-07-22",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.370594499999996,
     "geom:longitude": -108.4818695,
     "iata:airline": "DL",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532927,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N652DL",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "152568022"
+    },
     "wof:country": "US",
     "wof:created": 1784822847,
     "wof:geomhash": "e7ff2fb91095fba743a409117e008e1c",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2031927819,
     "wof:involves": [
+      1159289939,
       102527513,
       102532927,
-      1159284261,
-      -1
+      1159284261
     ],
-    "wof:lastmodified": 1784822847,
+    "wof:lastmodified": 1784823683,
     "wof:name": "DL8888 (MKC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

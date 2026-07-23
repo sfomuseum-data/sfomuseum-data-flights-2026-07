@@ -2,10 +2,12 @@
   "id": 2031933169,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-23",
+    "date:cessation_upper": "2026-07-23",
     "date:inception_lower": "2026-07-22",
     "date:inception_upper": "2026-07-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-22",
+    "edtf:cessation": "2026-07-23T00:37:43Z",
+    "edtf:inception": "2026-07-22T23:02:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-07-22",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152569110"
+    },
     "wof:country": "US",
     "wof:created": 1784823462,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -88,7 +96,7 @@
       1159285591,
       1947304599
     ],
-    "wof:lastmodified": 1784823462,
+    "wof:lastmodified": 1784823695,
     "wof:name": "WN3651 (SFO-PHX)",
     "wof:parent_id": 1947304599,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2031933713,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-23",
+    "date:cessation_upper": "2026-07-23",
     "date:inception_lower": "2026-07-22",
     "date:inception_upper": "2026-07-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-22",
+    "edtf:cessation": "2026-07-23T02:27:29Z",
+    "edtf:inception": "2026-07-22T19:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-07-22",
@@ -34,7 +36,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "152551685"
+    },
     "wof:country": "US",
     "wof:created": 1784823541,
     "wof:geomhash": "24c5d8bcd340273688237ae435bbe348",
@@ -51,7 +59,7 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1784823541,
+    "wof:lastmodified": 1784823701,
     "wof:name": "UA2369 (SFO-ANC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
