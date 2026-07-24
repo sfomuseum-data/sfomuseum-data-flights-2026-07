@@ -2,10 +2,12 @@
   "id": 2031947129,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-23",
+    "date:cessation_upper": "2026-07-23",
     "date:inception_lower": "2026-07-23",
     "date:inception_upper": "2026-07-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-23",
+    "edtf:cessation": "2026-07-23T12:00:16Z",
+    "edtf:inception": "2026-07-23T06:56:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152589785"
+    },
     "wof:country": "US",
     "wof:created": 1784909980,
     "wof:geomhash": "262283982e32a09ea653beb1776c6fc7",
@@ -94,7 +99,7 @@
       1947304617,
       1159283697
     ],
-    "wof:lastmodified": 1784909980,
+    "wof:lastmodified": 1784910118,
     "wof:name": "UA2854 (SFO-PHL)",
     "wof:parent_id": 1947304617,
     "wof:placetype": "custom",

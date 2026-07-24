@@ -2,10 +2,12 @@
   "id": 2031942633,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-23",
+    "date:cessation_upper": "2026-07-23",
     "date:inception_lower": "2026-07-23",
     "date:inception_upper": "2026-07-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-23",
+    "edtf:cessation": "2026-07-23T13:53:38Z",
+    "edtf:inception": "2026-07-23T10:36:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152595436"
+    },
     "wof:country": "US",
     "wof:created": 1784909431,
     "wof:geomhash": "25dc9d98eae1cd54f40654c6c4fb6929",
@@ -94,7 +102,7 @@
       1947304457,
       1159284333
     ],
-    "wof:lastmodified": 1784909431,
+    "wof:lastmodified": 1784910105,
     "wof:name": "UA487 (IAH-SFO)",
     "wof:parent_id": 1947304457,
     "wof:placetype": "custom",

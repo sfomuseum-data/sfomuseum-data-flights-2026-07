@@ -2,10 +2,12 @@
   "id": 2031946847,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-23",
+    "date:cessation_upper": "2026-07-23",
     "date:inception_lower": "2026-07-23",
     "date:inception_upper": "2026-07-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-23",
+    "edtf:cessation": "2026-07-23T07:43:11Z",
+    "edtf:inception": "2026-07-23T02:39:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152574660"
+    },
     "wof:country": "US",
     "wof:created": 1784909946,
     "wof:geomhash": "ff961493fc59fc665836e174da62aa8e",
@@ -94,7 +102,7 @@
       1947304455,
       1159283597
     ],
-    "wof:lastmodified": 1784909946,
+    "wof:lastmodified": 1784910117,
     "wof:name": "UA1509 (SFO-HNL)",
     "wof:parent_id": 1947304455,
     "wof:placetype": "custom",

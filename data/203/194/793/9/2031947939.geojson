@@ -2,10 +2,12 @@
   "id": 2031947939,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-23",
+    "date:cessation_upper": "2026-07-23",
     "date:inception_lower": "2026-07-23",
     "date:inception_upper": "2026-07-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-23",
+    "edtf:cessation": "2026-07-23T15:23:34Z",
+    "edtf:inception": "2026-07-23T13:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WS",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152606117"
+    },
     "wof:country": "US",
     "wof:created": 1784910078,
     "wof:geomhash": "a7dd599440af55c5534b52449c3164ed",
@@ -94,7 +102,7 @@
       1947304667,
       1159283539
     ],
-    "wof:lastmodified": 1784910078,
+    "wof:lastmodified": 1784910125,
     "wof:name": "WS1501 (SFO-YYC)",
     "wof:parent_id": 1947304667,
     "wof:placetype": "custom",
