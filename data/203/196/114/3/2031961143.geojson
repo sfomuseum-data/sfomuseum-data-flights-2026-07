@@ -2,10 +2,12 @@
   "id": 2031961143,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-07-24",
-    "date:inception_upper": "2026-07-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-24",
+    "date:cessation_lower": "2026-07-25",
+    "date:cessation_upper": "2026-07-25",
+    "date:inception_lower": "2026-07-25",
+    "date:inception_upper": "2026-07-25",
+    "edtf:cessation": "2026-07-25T06:11:08Z",
+    "edtf:inception": "2026-07-25T05:08:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-07-24",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.868524,
     "geom:longitude": -122.79198650000001,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533927,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N466UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "152667611"
+    },
     "wof:country": "US",
     "wof:created": 1784996311,
     "wof:geomhash": "ac29143dee46faf8dc4d82fa5cfc7601",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2031961143,
     "wof:involves": [
+      1159292085,
       102533927,
       102527513,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1784996311,
+    "wof:lastmodified": 1784996395,
     "wof:name": "UA8190 (SFO-EUG)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

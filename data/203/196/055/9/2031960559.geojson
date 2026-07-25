@@ -2,10 +2,12 @@
   "id": 2031960559,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-24",
+    "date:cessation_upper": "2026-07-24",
     "date:inception_lower": "2026-07-24",
     "date:inception_upper": "2026-07-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-24",
+    "edtf:cessation": "2026-07-24T06:36:42Z",
+    "edtf:inception": "2026-07-24T05:37:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152682859"
+    },
     "wof:country": "US",
     "wof:created": 1784996243,
     "wof:geomhash": "ac29143dee46faf8dc4d82fa5cfc7601",
@@ -94,7 +99,7 @@
       1947304607,
       1159284211
     ],
-    "wof:lastmodified": 1784996243,
+    "wof:lastmodified": 1784996390,
     "wof:name": "UA1508 (SFO-EUG)",
     "wof:parent_id": 1947304607,
     "wof:placetype": "custom",

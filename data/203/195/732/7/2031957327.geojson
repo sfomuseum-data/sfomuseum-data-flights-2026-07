@@ -2,10 +2,12 @@
   "id": 2031957327,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-24",
+    "date:cessation_upper": "2026-07-24",
     "date:inception_lower": "2026-07-24",
     "date:inception_upper": "2026-07-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-24",
+    "edtf:cessation": "2026-07-24T05:37:48Z",
+    "edtf:inception": "2026-07-24T03:49:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2026-07-24",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "152674517"
+    },
     "wof:country": "US",
     "wof:created": 1784995867,
     "wof:geomhash": "05e474f4bf1eb5ae110c20d94aac828f",
@@ -51,7 +56,7 @@
       1159283849,
       -1
     ],
-    "wof:lastmodified": 1784995867,
+    "wof:lastmodified": 1784996423,
     "wof:name": "AA799 (SFO-MIA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

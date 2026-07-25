@@ -2,10 +2,12 @@
   "id": 2031959103,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-24",
+    "date:cessation_upper": "2026-07-24",
     "date:inception_lower": "2026-07-24",
     "date:inception_upper": "2026-07-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-24",
+    "edtf:cessation": "2026-07-24T23:07:04Z",
+    "edtf:inception": "2026-07-24T18:35:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-07-24",
@@ -34,7 +36,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "152732052"
+    },
     "wof:country": "US",
     "wof:created": 1784996073,
     "wof:geomhash": "d81f35c9bd76192177056b7c45b4498c",
@@ -51,7 +59,7 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1784996073,
+    "wof:lastmodified": 1784996432,
     "wof:name": "DL430 (SFO-RDD)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

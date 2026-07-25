@@ -2,10 +2,12 @@
   "id": 2031955699,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-24",
+    "date:cessation_upper": "2026-07-24",
     "date:inception_lower": "2026-07-24",
     "date:inception_upper": "2026-07-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-24",
+    "edtf:cessation": "2026-07-24T17:04:28Z",
+    "edtf:inception": "2026-07-24T13:24:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-07-24",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152703482"
+    },
     "wof:country": "US",
     "wof:created": 1784995677,
     "wof:geomhash": "5aed0915f9f8845326df52b0d348a4b7",
@@ -88,7 +96,7 @@
       1159285591,
       1947304625
     ],
-    "wof:lastmodified": 1784995677,
+    "wof:lastmodified": 1784996437,
     "wof:name": "WN3982 (STL-SFO)",
     "wof:parent_id": 1947304625,
     "wof:placetype": "custom",

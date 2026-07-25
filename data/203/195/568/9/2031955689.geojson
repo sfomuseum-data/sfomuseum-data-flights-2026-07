@@ -2,10 +2,12 @@
   "id": 2031955689,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-24",
+    "date:cessation_upper": "2026-07-24",
     "date:inception_lower": "2026-07-24",
     "date:inception_upper": "2026-07-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-24",
+    "edtf:cessation": "2026-07-24T21:14:43Z",
+    "edtf:inception": "2026-07-24T19:45:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-07-24",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152744075"
+    },
     "wof:country": "US",
     "wof:created": 1784995676,
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
@@ -88,7 +96,7 @@
       1159285591,
       1947304597
     ],
-    "wof:lastmodified": 1784995676,
+    "wof:lastmodified": 1784996437,
     "wof:name": "WN3334 (PHX-SFO)",
     "wof:parent_id": 1947304597,
     "wof:placetype": "custom",

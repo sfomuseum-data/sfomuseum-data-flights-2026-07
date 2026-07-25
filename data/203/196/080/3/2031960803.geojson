@@ -2,10 +2,12 @@
   "id": 2031960803,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-24",
+    "date:cessation_upper": "2026-07-24",
     "date:inception_lower": "2026-07-24",
     "date:inception_upper": "2026-07-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-24",
+    "edtf:cessation": "2026-07-24T19:14:39Z",
+    "edtf:inception": "2026-07-24T18:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152732133"
+    },
     "wof:country": "US",
     "wof:created": 1784996272,
     "wof:geomhash": "ec8e91229a6790516c63cb7081c35777",
@@ -94,7 +102,7 @@
       1947304519,
       1159283597
     ],
-    "wof:lastmodified": 1784996272,
+    "wof:lastmodified": 1784996392,
     "wof:name": "UA2661 (SFO-ONT)",
     "wof:parent_id": 1947304519,
     "wof:placetype": "custom",

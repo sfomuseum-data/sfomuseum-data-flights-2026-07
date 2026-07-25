@@ -2,10 +2,12 @@
   "id": 2031961139,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-24",
+    "date:cessation_upper": "2026-07-24",
     "date:inception_lower": "2026-07-24",
     "date:inception_upper": "2026-07-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-24",
+    "edtf:cessation": "2026-07-24T19:36:12Z",
+    "edtf:inception": "2026-07-24T18:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-07-24",
@@ -34,7 +36,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "152660813"
+    },
     "wof:country": "US",
     "wof:created": 1784996310,
     "wof:geomhash": "1d9a5fa2c9575ebb155d9645f1016c57",
@@ -51,7 +59,7 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1784996310,
+    "wof:lastmodified": 1784996395,
     "wof:name": "UA8162 (SFO-SBA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

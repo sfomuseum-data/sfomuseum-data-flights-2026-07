@@ -2,10 +2,12 @@
   "id": 2031955665,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-24",
+    "date:cessation_upper": "2026-07-24",
     "date:inception_lower": "2026-07-24",
     "date:inception_upper": "2026-07-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-24",
+    "edtf:cessation": "2026-07-24T23:32:07Z",
+    "edtf:inception": "2026-07-24T22:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-07-24",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152750168"
+    },
     "wof:country": "US",
     "wof:created": 1784995673,
     "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
@@ -88,7 +96,7 @@
       1159285591,
       1947304597
     ],
-    "wof:lastmodified": 1784995673,
+    "wof:lastmodified": 1784996437,
     "wof:name": "WN2272 (SAN-SFO)",
     "wof:parent_id": 1947304597,
     "wof:placetype": "custom",

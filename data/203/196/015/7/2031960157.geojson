@@ -2,10 +2,12 @@
   "id": 2031960157,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-25",
+    "date:cessation_upper": "2026-07-25",
     "date:inception_lower": "2026-07-24",
     "date:inception_upper": "2026-07-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-24",
+    "edtf:cessation": "2026-07-25T01:29:34Z",
+    "edtf:inception": "2026-07-24T22:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-07-24",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152760553"
+    },
     "wof:country": "US",
     "wof:created": 1784996196,
     "wof:geomhash": "a08c5b1a6c329f228ec453404f254a51",
@@ -88,7 +96,7 @@
       1159285591,
       1947304599
     ],
-    "wof:lastmodified": 1784996196,
+    "wof:lastmodified": 1784996386,
     "wof:name": "WN1859 (SFO-DAL)",
     "wof:parent_id": 1947304599,
     "wof:placetype": "custom",

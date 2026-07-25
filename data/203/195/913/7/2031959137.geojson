@@ -2,10 +2,12 @@
   "id": 2031959137,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-25",
+    "date:cessation_upper": "2026-07-25",
     "date:inception_lower": "2026-07-24",
     "date:inception_upper": "2026-07-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-24",
+    "edtf:cessation": "2026-07-25T02:14:08Z",
+    "edtf:inception": "2026-07-24T22:20:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152755342"
+    },
     "wof:country": "US",
     "wof:created": 1784996077,
     "wof:geomhash": "9151bfe07cf224e1ff61a7f7b8c30671",
@@ -94,7 +102,7 @@
       1947304675,
       1159284625
     ],
-    "wof:lastmodified": 1784996077,
+    "wof:lastmodified": 1784996432,
     "wof:name": "DL717 (SFO-DTW)",
     "wof:parent_id": 1947304675,
     "wof:placetype": "custom",

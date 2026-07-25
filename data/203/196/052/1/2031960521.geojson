@@ -2,10 +2,12 @@
   "id": 2031960521,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-07-24",
-    "date:inception_upper": "2026-07-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-24",
+    "date:cessation_lower": "2026-07-25",
+    "date:cessation_upper": "2026-07-25",
+    "date:inception_lower": "2026-07-25",
+    "date:inception_upper": "2026-07-25",
+    "edtf:cessation": "2026-07-25T06:51:21Z",
+    "edtf:inception": "2026-07-25T06:32:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -121.98042749999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530559,
     "sfomuseum:base_flight_id": "20260724-D-ACA-4530",
@@ -39,7 +43,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N47360",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "152744133"
+    },
     "wof:country": "US",
     "wof:created": 1784996239,
     "wof:geomhash": "5cb31017412a00ced54cc35c2a74371e",
@@ -51,13 +63,13 @@
     ],
     "wof:id": 2031960521,
     "wof:involves": [
+      1159283597,
+      1528104575,
       102530559,
       102527513,
-      1159285413,
-      -1,
-      1159283597
+      1159285413
     ],
-    "wof:lastmodified": 1784996239,
+    "wof:lastmodified": 1784996389,
     "wof:name": "UA1302 (SFO-SMF)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

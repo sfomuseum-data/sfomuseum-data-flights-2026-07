@@ -2,10 +2,12 @@
   "id": 2031959165,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-24",
+    "date:cessation_upper": "2026-07-24",
     "date:inception_lower": "2026-07-24",
     "date:inception_upper": "2026-07-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-24",
+    "edtf:cessation": "2026-07-24T18:24:02Z",
+    "edtf:inception": "2026-07-24T14:49:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-07-24",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152710577"
+    },
     "wof:country": "US",
     "wof:created": 1784996081,
     "wof:geomhash": "b0d868dab19a217943f06d97e1bf7ce6",
@@ -88,7 +96,7 @@
       1159284261,
       1947304671
     ],
-    "wof:lastmodified": 1784996081,
+    "wof:lastmodified": 1784996432,
     "wof:name": "DL8838 (SFO-MDW)",
     "wof:parent_id": 1947304671,
     "wof:placetype": "custom",

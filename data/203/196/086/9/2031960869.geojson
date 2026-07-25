@@ -2,10 +2,12 @@
   "id": 2031960869,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-25",
+    "date:cessation_upper": "2026-07-25",
     "date:inception_lower": "2026-07-24",
     "date:inception_upper": "2026-07-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-24",
+    "edtf:cessation": "2026-07-25T01:41:18Z",
+    "edtf:inception": "2026-07-24T20:53:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-07-24",
@@ -34,7 +36,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "152790516"
+    },
     "wof:country": "US",
     "wof:created": 1784996279,
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
@@ -51,7 +59,7 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1784996279,
+    "wof:lastmodified": 1784996393,
     "wof:name": "UA3934 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

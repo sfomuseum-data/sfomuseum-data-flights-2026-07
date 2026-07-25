@@ -2,10 +2,12 @@
   "id": 2031960661,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-24",
+    "date:cessation_upper": "2026-07-24",
     "date:inception_lower": "2026-07-24",
     "date:inception_upper": "2026-07-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-24",
+    "edtf:cessation": "2026-07-24T03:25:58Z",
+    "edtf:inception": "2026-07-24T01:52:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152674084"
+    },
     "wof:country": "US",
     "wof:created": 1784996255,
     "wof:geomhash": "9f2aefec298b0356dc0b4065c5b61f73",
@@ -94,7 +99,7 @@
       1947304609,
       1159283697
     ],
-    "wof:lastmodified": 1784996255,
+    "wof:lastmodified": 1784996391,
     "wof:name": "UA1958 (SFO-JAC)",
     "wof:parent_id": 1947304609,
     "wof:placetype": "custom",

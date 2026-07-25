@@ -2,10 +2,12 @@
   "id": 2031960705,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-25",
+    "date:cessation_upper": "2026-07-25",
     "date:inception_lower": "2026-07-24",
     "date:inception_upper": "2026-07-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-24",
+    "edtf:cessation": "2026-07-25T00:43:16Z",
+    "edtf:inception": "2026-07-24T18:53:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-07-24",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152733039"
+    },
     "wof:country": "US",
     "wof:created": 1784996260,
     "wof:geomhash": "616ffa6e449396b97f6247dc82a6219c",
@@ -88,7 +96,7 @@
       1159285413,
       1947304139
     ],
-    "wof:lastmodified": 1784996260,
+    "wof:lastmodified": 1784996391,
     "wof:name": "UA2139 (SFO-LIR)",
     "wof:parent_id": 1947304139,
     "wof:placetype": "custom",
