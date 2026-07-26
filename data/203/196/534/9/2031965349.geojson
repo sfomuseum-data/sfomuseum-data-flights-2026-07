@@ -2,10 +2,12 @@
   "id": 2031965349,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-25",
+    "date:cessation_upper": "2026-07-25",
     "date:inception_lower": "2026-07-25",
     "date:inception_upper": "2026-07-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-25",
+    "edtf:cessation": "2026-07-25T10:52:52-07:00",
+    "edtf:inception": "2026-07-25T19:45:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-07-25",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.1546165,
     "geom:longitude": -98.2742345,
     "iata:airline": "UA",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "lbl:latitude": 37.620534,
     "lbl:longitude": -122.388506,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102530049,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N2639U",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152856794"
+    },
     "wof:country": "US",
     "wof:created": 1785082157,
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2031965349,
     "wof:involves": [
-      102527513,
-      102530049,
       1159285413,
-      1947304459
+      1947304459,
+      1159289993,
+      102527513,
+      102530049
     ],
-    "wof:lastmodified": 1785082157,
+    "wof:lastmodified": 1785082775,
     "wof:name": "UA3900 (EWR-SFO)",
     "wof:parent_id": 1947304459,
     "wof:placetype": "custom",

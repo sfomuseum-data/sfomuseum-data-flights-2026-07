@@ -2,10 +2,12 @@
   "id": 2031969441,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-26",
+    "date:cessation_upper": "2026-07-26",
     "date:inception_lower": "2026-07-25",
     "date:inception_upper": "2026-07-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-25",
+    "edtf:cessation": "2026-07-26T04:34:51Z",
+    "edtf:inception": "2026-07-25T23:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152858984"
+    },
     "wof:country": "US",
     "wof:created": 1785082630,
     "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
@@ -94,7 +102,7 @@
       1947304523,
       1159283875
     ],
-    "wof:lastmodified": 1785082630,
+    "wof:lastmodified": 1785082937,
     "wof:name": "UA2001 (SFO-BOS)",
     "wof:parent_id": 1947304523,
     "wof:placetype": "custom",

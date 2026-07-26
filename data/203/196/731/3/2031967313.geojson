@@ -2,10 +2,12 @@
   "id": 2031967313,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-25",
+    "date:cessation_upper": "2026-07-25",
     "date:inception_lower": "2026-07-25",
     "date:inception_upper": "2026-07-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-25",
+    "edtf:cessation": "2026-07-25T17:15:05Z",
+    "edtf:inception": "2026-07-25T16:06:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152809874"
+    },
     "wof:country": "US",
     "wof:created": 1785082386,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
@@ -94,7 +102,7 @@
       1947304313,
       1159283849
     ],
-    "wof:lastmodified": 1785082386,
+    "wof:lastmodified": 1785082787,
     "wof:name": "AS1557 (SFO-SAN)",
     "wof:parent_id": 1947304313,
     "wof:placetype": "custom",

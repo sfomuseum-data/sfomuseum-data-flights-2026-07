@@ -2,10 +2,12 @@
   "id": 2031965165,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-25",
+    "date:cessation_upper": "2026-07-25",
     "date:inception_lower": "2026-07-25",
     "date:inception_upper": "2026-07-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-25",
+    "edtf:cessation": "2026-07-25T14:14:25-07:00",
+    "edtf:inception": "2026-07-25T22:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-07-25",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.6318025,
     "geom:longitude": -96.3459205,
     "iata:airline": "UA",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618486,
     "lbl:longitude": -122.384457,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102534331,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N37297",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152854233"
+    },
     "wof:country": "US",
     "wof:created": 1785082136,
     "wof:geomhash": "200f1287561f400a1477ba9e2daa3bd4",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2031965165,
     "wof:involves": [
-      102527513,
-      102534331,
       1159285413,
-      1947304525
+      1947304525,
+      1528104575,
+      102527513,
+      102534331
     ],
-    "wof:lastmodified": 1785082136,
+    "wof:lastmodified": 1785082773,
     "wof:name": "UA2035 (PWM-SFO)",
     "wof:parent_id": 1947304525,
     "wof:placetype": "custom",

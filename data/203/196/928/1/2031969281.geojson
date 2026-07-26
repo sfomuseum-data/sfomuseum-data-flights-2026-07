@@ -2,10 +2,12 @@
   "id": 2031969281,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-25",
+    "date:cessation_upper": "2026-07-25",
     "date:inception_lower": "2026-07-25",
     "date:inception_upper": "2026-07-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-25",
+    "edtf:cessation": "2026-07-25T20:27:27Z",
+    "edtf:inception": "2026-07-25T15:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-07-25",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152813012"
+    },
     "wof:country": "US",
     "wof:created": 1785082612,
     "wof:geomhash": "a04b9112e1aca015bb66f7e03ba452fe",
@@ -88,7 +96,7 @@
       1159285413,
       1947304531
     ],
-    "wof:lastmodified": 1785082612,
+    "wof:lastmodified": 1785082937,
     "wof:name": "UA1207 (SFO-PWM)",
     "wof:parent_id": 1947304531,
     "wof:placetype": "custom",

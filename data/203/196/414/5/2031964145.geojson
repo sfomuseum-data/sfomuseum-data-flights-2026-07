@@ -2,10 +2,12 @@
   "id": 2031964145,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-25",
+    "date:cessation_upper": "2026-07-25",
     "date:inception_lower": "2026-07-25",
     "date:inception_upper": "2026-07-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-25",
+    "edtf:cessation": "2026-07-25T05:47:03-07:00",
+    "edtf:inception": "2026-07-25T14:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "FI",
     "flysfo:date": "2026-07-25",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.130638000000005,
     "geom:longitude": -98.07939400000001,
     "iata:airline": "FI",
+    "icao:aircraft": "B763",
     "icao:airline": "ICE",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289965,
     "sfomuseum:airline_id": 1159284513,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102534365,
@@ -34,7 +38,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "152877648"
+    },
     "wof:country": "US",
     "wof:created": 1785082015,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
@@ -46,12 +57,12 @@
     ],
     "wof:id": 2031964145,
     "wof:involves": [
-      102527513,
-      102534365,
       1159284513,
-      -1
+      1159289965,
+      102527513,
+      102534365
     ],
-    "wof:lastmodified": 1785082015,
+    "wof:lastmodified": 1785082769,
     "wof:name": "FI5711 (JFK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
