@@ -2,10 +2,12 @@
   "id": 2031981001,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-26",
+    "date:cessation_upper": "2026-07-26",
     "date:inception_lower": "2026-07-26",
     "date:inception_upper": "2026-07-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-26",
+    "edtf:cessation": "2026-07-26T19:35:54Z",
+    "edtf:inception": "2026-07-26T17:54:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-07-26",
@@ -34,7 +36,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "152912764"
+    },
     "wof:country": "US",
     "wof:created": 1785168877,
     "wof:geomhash": "7977975fa4ad0a35973dcf84bbb5a31a",
@@ -51,7 +59,7 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1785168877,
+    "wof:lastmodified": 1785169194,
     "wof:name": "DL460 (SFO-BFL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

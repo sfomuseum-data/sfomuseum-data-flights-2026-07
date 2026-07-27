@@ -2,10 +2,12 @@
   "id": 2031983043,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-26",
+    "date:cessation_upper": "2026-07-26",
     "date:inception_lower": "2026-07-26",
     "date:inception_upper": "2026-07-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-26",
+    "edtf:cessation": "2026-07-26T18:42:56Z",
+    "edtf:inception": "2026-07-26T17:56:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-07-26",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.022982,
     "geom:longitude": -121.104038,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527337,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N461UA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "152912870"
+    },
     "wof:country": "US",
     "wof:created": 1785169111,
     "wof:geomhash": "1d9a5fa2c9575ebb155d9645f1016c57",
@@ -46,12 +58,12 @@
     ],
     "wof:id": 2031983043,
     "wof:involves": [
+      1159292085,
       102527337,
       102527513,
-      1159285413,
-      -1
+      1159285413
     ],
-    "wof:lastmodified": 1785169111,
+    "wof:lastmodified": 1785169228,
     "wof:name": "UA8178 (SFO-SBA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

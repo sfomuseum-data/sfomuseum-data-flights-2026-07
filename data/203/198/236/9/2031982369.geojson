@@ -2,10 +2,12 @@
   "id": 2031982369,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-26",
+    "date:cessation_upper": "2026-07-26",
     "date:inception_lower": "2026-07-26",
     "date:inception_upper": "2026-07-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-26",
+    "edtf:cessation": "2026-07-26T20:33:04Z",
+    "edtf:inception": "2026-07-26T18:54:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152919340"
+    },
     "wof:country": "US",
     "wof:created": 1785169034,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -94,7 +102,7 @@
       1947304607,
       1159284211
     ],
-    "wof:lastmodified": 1785169034,
+    "wof:lastmodified": 1785169222,
     "wof:name": "UA1007 (SFO-SEA)",
     "wof:parent_id": 1947304607,
     "wof:placetype": "custom",

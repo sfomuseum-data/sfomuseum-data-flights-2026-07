@@ -2,10 +2,12 @@
   "id": 2031980749,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-27",
+    "date:cessation_upper": "2026-07-27",
     "date:inception_lower": "2026-07-26",
     "date:inception_upper": "2026-07-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-26",
+    "edtf:cessation": "2026-07-27T03:29:32Z",
+    "edtf:inception": "2026-07-26T23:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CI",
     "flysfo:date": "2026-07-26",
@@ -34,7 +36,13 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "152999483"
+    },
     "wof:country": "US",
     "wof:created": 1785168848,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -51,7 +59,7 @@
       1159284153,
       -1
     ],
-    "wof:lastmodified": 1785168848,
+    "wof:lastmodified": 1785169192,
     "wof:name": "CI5346 (SFO-ATL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

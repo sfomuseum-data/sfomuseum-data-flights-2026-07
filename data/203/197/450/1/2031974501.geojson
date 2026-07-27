@@ -2,10 +2,12 @@
   "id": 2031974501,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-07-26",
-    "date:inception_upper": "2026-07-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-26",
+    "date:cessation_lower": "2026-07-27",
+    "date:cessation_upper": "2026-07-27",
+    "date:inception_lower": "2026-07-27",
+    "date:inception_upper": "2026-07-27",
+    "edtf:cessation": "2026-07-27T06:15:05Z",
+    "edtf:inception": "2026-07-27T01:01:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152860915"
+    },
     "wof:country": "US",
     "wof:created": 1785168093,
     "wof:geomhash": "38f88108bbae8bb050c3144d37bdc384",
@@ -94,7 +102,7 @@
       1947304309,
       1779770725
     ],
-    "wof:lastmodified": 1785168093,
+    "wof:lastmodified": 1785169188,
     "wof:name": "AA2799 (MIA-SFO)",
     "wof:parent_id": 1947304309,
     "wof:placetype": "custom",
