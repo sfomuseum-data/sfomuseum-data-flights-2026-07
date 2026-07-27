@@ -1,0 +1,72 @@
+{
+  "id": 2031982085,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2026-07-26",
+    "date:inception_upper": "2026-07-26",
+    "edtf:cessation": "",
+    "edtf:inception": "2026-07-26",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "WN",
+    "flysfo:date": "2026-07-26",
+    "flysfo:estimated_timestamp": 1785098160,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "WN2518",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-STL",
+    "flysfo:scheduled_timestamp": 1785096600,
+    "flysfo:timestamp": 1785098160,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-90.367632,38.743872",
+    "geom:latitude": 38.180931,
+    "geom:longitude": -106.3692875,
+    "iata:airline": "WN",
+    "icao:airline": "SWA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159285591,
+    "sfomuseum:arrival_id": 1746879059,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20260726-D-SWA-2518",
+    "sfomuseum:flight_number": [
+      "SWA2518",
+      "WN2518"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1785169001,
+    "wof:geomhash": "17371a5d27e54a99ca50752d2b6a5e79",
+    "wof:hierarchy": [
+      {
+        "custom_id": 2031982085,
+        "flight_id": 2031982085
+      }
+    ],
+    "wof:id": 2031982085,
+    "wof:involves": [
+      1746879059,
+      102527513,
+      1159285591,
+      -1
+    ],
+    "wof:lastmodified": 1785169001,
+    "wof:name": "WN2518 (SFO-STL)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "flight"
+    ],
+    "wof:repo": "sfomuseum-data-flights-2026-07",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -90.367632,
+    38.743872
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-90.367632,38.743872]],"type":"MultiPoint"}
+}
