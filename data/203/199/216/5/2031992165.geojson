@@ -2,10 +2,12 @@
   "id": 2031992165,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-27",
+    "date:cessation_upper": "2026-07-27",
     "date:inception_lower": "2026-07-27",
     "date:inception_upper": "2026-07-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-27",
+    "edtf:cessation": "2026-07-27T23:24:13Z",
+    "edtf:inception": "2026-07-27T21:49:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153011255"
+    },
     "wof:country": "US",
     "wof:created": 1785255010,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -94,7 +102,7 @@
       1947304525,
       1159286475
     ],
-    "wof:lastmodified": 1785255010,
+    "wof:lastmodified": 1785255658,
     "wof:name": "UA737 (SEA-SFO)",
     "wof:parent_id": 1947304525,
     "wof:placetype": "custom",

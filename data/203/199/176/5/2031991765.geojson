@@ -2,10 +2,12 @@
   "id": 2031991765,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-27",
+    "date:cessation_upper": "2026-07-27",
     "date:inception_lower": "2026-07-27",
     "date:inception_upper": "2026-07-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-27",
+    "edtf:cessation": "2026-07-27T04:00:14Z",
+    "edtf:inception": "2026-07-27T00:02:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152942057"
+    },
     "wof:country": "US",
     "wof:created": 1785254963,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -94,7 +99,7 @@
       1947304473,
       1159283597
     ],
-    "wof:lastmodified": 1785254963,
+    "wof:lastmodified": 1785255640,
     "wof:name": "UA2179 (ORD-SFO)",
     "wof:parent_id": 1947304473,
     "wof:placetype": "custom",

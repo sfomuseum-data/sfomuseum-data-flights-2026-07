@@ -2,10 +2,12 @@
   "id": 2031993455,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-27",
+    "date:cessation_upper": "2026-07-27",
     "date:inception_lower": "2026-07-27",
     "date:inception_upper": "2026-07-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-27",
+    "edtf:cessation": "2026-07-27T22:13:20Z",
+    "edtf:inception": "2026-07-27T18:46:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AM",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304069,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153000519"
+    },
     "wof:country": "US",
     "wof:created": 1785255160,
     "wof:geomhash": "c9806dbd281b9c6ccae24134b59a20cd",
@@ -94,7 +102,7 @@
       1947304095,
       1159284261
     ],
-    "wof:lastmodified": 1785255160,
+    "wof:lastmodified": 1785255644,
     "wof:name": "AM623 (SFO-GDL)",
     "wof:parent_id": 1947304095,
     "wof:placetype": "custom",

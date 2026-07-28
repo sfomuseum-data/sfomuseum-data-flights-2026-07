@@ -2,10 +2,12 @@
   "id": 2031991763,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-27",
+    "date:cessation_upper": "2026-07-27",
     "date:inception_lower": "2026-07-27",
     "date:inception_upper": "2026-07-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-27",
+    "edtf:cessation": "2026-07-27T01:44:33-07:00",
+    "edtf:inception": "2026-07-27T11:01:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,6 +26,7 @@
     "geom:longitude": -101.315247,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "T34P",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618874,
@@ -39,6 +42,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N17444",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +61,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "152963245"
+    },
     "wof:country": "US",
     "wof:created": 1785254962,
     "wof:geomhash": "1bce6af8a92006379b4194e1695731d3",
@@ -94,7 +105,7 @@
       1947304529,
       1159283697
     ],
-    "wof:lastmodified": 1785254962,
+    "wof:lastmodified": 1785255640,
     "wof:name": "UA2177 (PIT-SFO)",
     "wof:parent_id": 1947304529,
     "wof:placetype": "custom",
