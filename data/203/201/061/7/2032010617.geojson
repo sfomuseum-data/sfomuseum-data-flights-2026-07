@@ -2,10 +2,12 @@
   "id": 2032010617,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-07-28",
-    "date:inception_upper": "2026-07-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-28",
+    "date:cessation_lower": "2026-07-29",
+    "date:cessation_upper": "2026-07-29",
+    "date:inception_lower": "2026-07-29",
+    "date:inception_upper": "2026-07-29",
+    "edtf:cessation": "2026-07-29T10:32:30Z",
+    "edtf:inception": "2026-07-29T06:17:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -100.9996425,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61756,
     "lbl:longitude": -122.381052,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102555091,
     "sfomuseum:base_flight_id": "20260728-D-ACA-4067",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N33294",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +62,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153040375"
+    },
     "wof:country": "US",
     "wof:created": 1785341866,
     "wof:geomhash": "1a30ef2f5f82135186aeb20f0187ac62",
@@ -88,13 +100,14 @@
     ],
     "wof:id": 2032010617,
     "wof:involves": [
+      1947304609,
+      1159283597,
+      1159289871,
       102555091,
       102527513,
-      1159285413,
-      1947304609,
-      1159283597
+      1159285413
     ],
-    "wof:lastmodified": 1785341866,
+    "wof:lastmodified": 1785341975,
     "wof:name": "UA436 (SFO-YYZ)",
     "wof:parent_id": 1947304609,
     "wof:placetype": "custom",

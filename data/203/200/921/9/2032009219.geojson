@@ -2,10 +2,12 @@
   "id": 2032009219,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-28",
+    "date:cessation_upper": "2026-07-28",
     "date:inception_lower": "2026-07-28",
     "date:inception_upper": "2026-07-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-28",
+    "edtf:cessation": "2026-07-28T11:18:04Z",
+    "edtf:inception": "2026-07-28T08:02:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:date": "2026-07-28",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304259,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153129282"
+    },
     "wof:country": "US",
     "wof:created": 1785341702,
     "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
@@ -88,7 +96,7 @@
       1159284401,
       1947304273
     ],
-    "wof:lastmodified": 1785341702,
+    "wof:lastmodified": 1785341993,
     "wof:name": "F99513 (SFO-DFW)",
     "wof:parent_id": 1947304273,
     "wof:placetype": "custom",
