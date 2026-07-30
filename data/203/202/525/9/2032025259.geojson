@@ -2,10 +2,12 @@
   "id": 2032025259,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-30",
+    "date:cessation_upper": "2026-07-30",
     "date:inception_lower": "2026-07-29",
     "date:inception_upper": "2026-07-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-29",
+    "edtf:cessation": "2026-07-30T08:27:44Z",
+    "edtf:inception": "2026-07-29T20:45:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153186459"
+    },
     "wof:country": "US",
     "wof:created": 1785428343,
     "wof:geomhash": "014430cde1a85b033fb3b4a447168595",
@@ -94,7 +102,7 @@
       1947304459,
       1159283605
     ],
-    "wof:lastmodified": 1785428343,
+    "wof:lastmodified": 1785429042,
     "wof:name": "UA857 (SFO-PVG)",
     "wof:parent_id": 1947304459,
     "wof:placetype": "custom",

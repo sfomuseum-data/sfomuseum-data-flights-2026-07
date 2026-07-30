@@ -2,10 +2,12 @@
   "id": 2032020869,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-29",
+    "date:cessation_upper": "2026-07-29",
     "date:inception_lower": "2026-07-29",
     "date:inception_upper": "2026-07-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-29",
+    "edtf:cessation": "2026-07-29T08:55:08Z",
+    "edtf:inception": "2026-07-29T07:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-07-29",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "153106828"
+    },
     "wof:country": "US",
     "wof:created": 1785427821,
     "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
@@ -51,7 +56,7 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1785427821,
+    "wof:lastmodified": 1785428779,
     "wof:name": "UA8230 (YVR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

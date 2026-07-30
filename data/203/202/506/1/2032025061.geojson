@@ -2,10 +2,12 @@
   "id": 2032025061,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-07-29",
-    "date:inception_upper": "2026-07-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-29",
+    "date:cessation_lower": "2026-07-30",
+    "date:cessation_upper": "2026-07-30",
+    "date:inception_lower": "2026-07-30",
+    "date:inception_upper": "2026-07-30",
+    "edtf:cessation": "2026-07-30T04:08:44Z",
+    "edtf:inception": "2026-07-30T03:20:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153201172"
+    },
     "wof:country": "US",
     "wof:created": 1785428320,
     "wof:geomhash": "5c4ab4afb4473393075e7e0145a9edb2",
@@ -94,7 +102,7 @@
       1947304489,
       1159283597
     ],
-    "wof:lastmodified": 1785428320,
+    "wof:lastmodified": 1785429042,
     "wof:name": "UA543 (SFO-BOI)",
     "wof:parent_id": 1947304489,
     "wof:placetype": "custom",

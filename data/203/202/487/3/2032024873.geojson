@@ -2,10 +2,12 @@
   "id": 2032024873,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-30",
+    "date:cessation_upper": "2026-07-30",
     "date:inception_lower": "2026-07-29",
     "date:inception_upper": "2026-07-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-29",
+    "edtf:cessation": "2026-07-30T02:49:57Z",
+    "edtf:inception": "2026-07-29T23:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -113.521581,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B753",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.620791,
     "lbl:longitude": -122.390014,
+    "sfomuseum:aircraft_id": 1159289945,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102531189,
     "sfomuseum:base_flight_id": "20260729-D-ACA-4047",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N75861",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -92,9 +101,10 @@
       102527513,
       1159285413,
       1947304473,
-      1159283597
+      1159283597,
+      1159289945
     ],
-    "wof:lastmodified": 1785428297,
+    "wof:lastmodified": 1785429041,
     "wof:name": "UA2348 (SFO-DEN)",
     "wof:parent_id": 1947304473,
     "wof:placetype": "custom",

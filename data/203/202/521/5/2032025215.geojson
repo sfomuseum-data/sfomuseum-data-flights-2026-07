@@ -2,10 +2,12 @@
   "id": 2032025215,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-29",
+    "date:cessation_upper": "2026-07-29",
     "date:inception_lower": "2026-07-29",
     "date:inception_upper": "2026-07-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-29",
+    "edtf:cessation": "2026-07-29T18:43:15Z",
+    "edtf:inception": "2026-07-29T17:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153168967"
+    },
     "wof:country": "US",
     "wof:created": 1785428338,
     "wof:geomhash": "ac29143dee46faf8dc4d82fa5cfc7601",
@@ -94,7 +102,7 @@
       1947304481,
       1159283697
     ],
-    "wof:lastmodified": 1785428338,
+    "wof:lastmodified": 1785429042,
     "wof:name": "UA790 (SFO-EUG)",
     "wof:parent_id": 1947304481,
     "wof:placetype": "custom",
