@@ -2,10 +2,12 @@
   "id": 2032033405,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-30",
+    "date:cessation_upper": "2026-07-30",
     "date:inception_lower": "2026-07-30",
     "date:inception_upper": "2026-07-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-30",
+    "edtf:cessation": "2026-07-30T20:36:08Z",
+    "edtf:inception": "2026-07-30T19:45:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153270276"
+    },
     "wof:country": "US",
     "wof:created": 1785513998,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -94,7 +102,7 @@
       1947304671,
       1159283539
     ],
-    "wof:lastmodified": 1785513998,
+    "wof:lastmodified": 1785514889,
     "wof:name": "DL2725 (LAX-SFO)",
     "wof:parent_id": 1947304671,
     "wof:placetype": "custom",

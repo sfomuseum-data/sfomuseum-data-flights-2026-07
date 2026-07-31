@@ -2,10 +2,12 @@
   "id": 2032039415,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-30",
+    "date:cessation_upper": "2026-07-30",
     "date:inception_lower": "2026-07-30",
     "date:inception_upper": "2026-07-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-30",
+    "edtf:cessation": "2026-07-30T08:22:45Z",
+    "edtf:inception": "2026-07-30T03:48:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153213231"
+    },
     "wof:country": "US",
     "wof:created": 1785514710,
     "wof:geomhash": "8c8f659fbae3cc58419f360e0abfbe56",
@@ -94,7 +102,7 @@
       1947304453,
       1763699293
     ],
-    "wof:lastmodified": 1785514710,
+    "wof:lastmodified": 1785514907,
     "wof:name": "UA1124 (SFO-OGG)",
     "wof:parent_id": 1947304453,
     "wof:placetype": "custom",

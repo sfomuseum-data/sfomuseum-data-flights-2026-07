@@ -2,10 +2,12 @@
   "id": 2032039519,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-07-30",
-    "date:inception_upper": "2026-07-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-30",
+    "date:cessation_lower": "2026-07-31",
+    "date:cessation_upper": "2026-07-31",
+    "date:inception_lower": "2026-07-31",
+    "date:inception_upper": "2026-07-31",
+    "edtf:cessation": "2026-07-31T06:34:09Z",
+    "edtf:inception": "2026-07-31T02:34:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153212059"
+    },
     "wof:country": "US",
     "wof:created": 1785514723,
     "wof:geomhash": "24c5d8bcd340273688237ae435bbe348",
@@ -94,7 +102,7 @@
       1947304519,
       1159286015
     ],
-    "wof:lastmodified": 1785514723,
+    "wof:lastmodified": 1785514908,
     "wof:name": "UA1594 (SFO-ANC)",
     "wof:parent_id": 1947304519,
     "wof:placetype": "custom",

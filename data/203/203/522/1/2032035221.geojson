@@ -2,10 +2,12 @@
   "id": 2032035221,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-30",
+    "date:cessation_upper": "2026-07-30",
     "date:inception_lower": "2026-07-30",
     "date:inception_upper": "2026-07-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-30",
+    "edtf:cessation": "2026-07-30T09:00:52Z",
+    "edtf:inception": "2026-07-30T05:13:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-07-30",
@@ -48,6 +50,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153291947"
+    },
     "wof:country": "US",
     "wof:created": 1785514218,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
@@ -88,7 +93,7 @@
       1159285413,
       1947304455
     ],
-    "wof:lastmodified": 1785514218,
+    "wof:lastmodified": 1785514913,
     "wof:name": "UA3013 (ORD-SFO)",
     "wof:parent_id": 1947304455,
     "wof:placetype": "custom",

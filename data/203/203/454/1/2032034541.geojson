@@ -2,10 +2,12 @@
   "id": 2032034541,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-30",
+    "date:cessation_upper": "2026-07-30",
     "date:inception_lower": "2026-07-30",
     "date:inception_upper": "2026-07-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-30",
+    "edtf:cessation": "2026-07-30T17:16:21Z",
+    "edtf:inception": "2026-07-30T15:07:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2026-07-30",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +53,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153239287"
+    },
     "wof:country": "US",
     "wof:created": 1785514135,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
@@ -88,7 +96,7 @@
       1159285591,
       1947304625
     ],
-    "wof:lastmodified": 1785514135,
+    "wof:lastmodified": 1785514912,
     "wof:name": "WN2386 (DEN-SFO)",
     "wof:parent_id": 1947304625,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 2032033499,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-30",
+    "date:cessation_upper": "2026-07-30",
     "date:inception_lower": "2026-07-30",
     "date:inception_upper": "2026-07-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-30",
+    "edtf:cessation": "2026-07-30T08:25:55Z",
+    "edtf:inception": "2026-07-30T06:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2026-07-30",
@@ -48,6 +50,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153218299"
+    },
     "wof:country": "US",
     "wof:created": 1785514009,
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
@@ -88,7 +93,7 @@
       1159284261,
       1947304671
     ],
-    "wof:lastmodified": 1785514009,
+    "wof:lastmodified": 1785514890,
     "wof:name": "DL8965 (PHX-SFO)",
     "wof:parent_id": 1947304671,
     "wof:placetype": "custom",

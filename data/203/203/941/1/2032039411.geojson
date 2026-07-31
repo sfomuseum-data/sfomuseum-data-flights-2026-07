@@ -2,10 +2,12 @@
   "id": 2032039411,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-30",
+    "date:cessation_upper": "2026-07-30",
     "date:inception_lower": "2026-07-30",
     "date:inception_upper": "2026-07-30",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-30",
+    "edtf:cessation": "2026-07-30T23:58:20Z",
+    "edtf:inception": "2026-07-30T20:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153278907"
+    },
     "wof:country": "US",
     "wof:created": 1785514710,
     "wof:geomhash": "f1e29c4a83094711ef061292cfad3358",
@@ -94,7 +102,7 @@
       1947304609,
       1159283597
     ],
-    "wof:lastmodified": 1785514710,
+    "wof:lastmodified": 1785514918,
     "wof:name": "UA1116 (SFO-AUS)",
     "wof:parent_id": 1947304609,
     "wof:placetype": "custom",
