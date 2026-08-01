@@ -2,10 +2,12 @@
   "id": 2032054253,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-31",
+    "date:cessation_upper": "2026-07-31",
     "date:inception_lower": "2026-07-31",
     "date:inception_upper": "2026-07-31",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-31",
+    "edtf:cessation": "2026-07-31T07:52:32Z",
+    "edtf:inception": "2026-07-31T07:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153315102"
+    },
     "wof:country": "US",
     "wof:created": 1785601099,
     "wof:geomhash": "414447526a1ddeb77713c60c4ab5a7e4",
@@ -94,7 +99,7 @@
       1947304517,
       1159283597
     ],
-    "wof:lastmodified": 1785601099,
+    "wof:lastmodified": 1785601299,
     "wof:name": "UA1757 (SFO-RNO)",
     "wof:parent_id": 1947304517,
     "wof:placetype": "custom",

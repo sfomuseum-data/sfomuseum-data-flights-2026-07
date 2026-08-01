@@ -2,10 +2,12 @@
   "id": 2032054453,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2026-07-31",
-    "date:inception_upper": "2026-07-31",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-31",
+    "date:cessation_lower": "2026-08-01",
+    "date:cessation_upper": "2026-08-01",
+    "date:inception_lower": "2026-08-01",
+    "date:inception_upper": "2026-08-01",
+    "edtf:cessation": "2026-08-01T03:21:20Z",
+    "edtf:inception": "2026-08-01T01:05:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304447,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153346207"
+    },
     "wof:country": "US",
     "wof:created": 1785601123,
     "wof:geomhash": "bbdc3c5edf2b2678c807f6144214d82c",
@@ -94,7 +102,7 @@
       1947304531,
       1159283697
     ],
-    "wof:lastmodified": 1785601123,
+    "wof:lastmodified": 1785601301,
     "wof:name": "UA283 (SFO-MSP)",
     "wof:parent_id": 1947304531,
     "wof:placetype": "custom",

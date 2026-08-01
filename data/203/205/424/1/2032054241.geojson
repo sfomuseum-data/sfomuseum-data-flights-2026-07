@@ -2,10 +2,12 @@
   "id": 2032054241,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-08-01",
+    "date:cessation_upper": "2026-08-01",
     "date:inception_lower": "2026-07-31",
     "date:inception_upper": "2026-07-31",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-31",
+    "edtf:cessation": "2026-08-01T01:20:30Z",
+    "edtf:inception": "2026-07-31T20:42:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -53,6 +58,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153336459"
+    },
     "wof:country": "US",
     "wof:created": 1785601097,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -94,7 +102,7 @@
       1947304609,
       1159283697
     ],
-    "wof:lastmodified": 1785601097,
+    "wof:lastmodified": 1785601299,
     "wof:name": "UA1708 (SFO-SEA)",
     "wof:parent_id": 1947304609,
     "wof:placetype": "custom",

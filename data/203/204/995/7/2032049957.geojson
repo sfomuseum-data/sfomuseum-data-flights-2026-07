@@ -2,10 +2,12 @@
   "id": 2032049957,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2026-07-31",
+    "date:cessation_upper": "2026-07-31",
     "date:inception_lower": "2026-07-31",
     "date:inception_upper": "2026-07-31",
-    "edtf:cessation": "",
-    "edtf:inception": "2026-07-31",
+    "edtf:cessation": "2026-07-31T16:23:04-07:00",
+    "edtf:inception": "2026-07-31T01:36:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2026-07-31",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.8087165,
     "geom:longitude": -102.62808,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617921,
     "lbl:longitude": -122.38181,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532255,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N457UA",
     "wof:belongsto": [
       1947304067,
       102527513,
@@ -48,6 +57,9 @@
       1947304591,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "153297113"
+    },
     "wof:country": "US",
     "wof:created": 1785600598,
     "wof:geomhash": "980d68d8d28509c0742a6b2a7abf5f67",
@@ -83,12 +95,13 @@
     ],
     "wof:id": 2032049957,
     "wof:involves": [
+      1159292085,
       102527513,
       102532255,
       1159285413,
       1947304623
     ],
-    "wof:lastmodified": 1785600598,
+    "wof:lastmodified": 1785601296,
     "wof:name": "UA2861 (CMH-SFO)",
     "wof:parent_id": 1947304623,
     "wof:placetype": "custom",
